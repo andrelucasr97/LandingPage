@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(../../images/backgroundLp.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+}
+
+.container1{
+    background-color: black;
+    width: 450px;
+    height: auto;
+}
+
+.topLogo{
+    width: 180px;
+}
+
+.paragraph{
+    margin: 7px 0px;
+}
+
+.fotter{
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
